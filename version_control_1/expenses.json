@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "description": "Groceries",
+    "amount": 42.5,
+    "category": "Food",
+    "date": "2026-10-14"
+  }
+]
